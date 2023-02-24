@@ -1,4 +1,8 @@
-### Hi there 👋
+### Well met, fellow internet and source code adventurer! Welcome to my favorite little internet nook. As the founder of Cairo Creative Studios, I'm leading my team to wonderful creative endeavors. Check out our organization page!
+
+```C#
+//TODO: Write the rest of this here README.md!
+```
 
 <!--
 **thechayed/thechayed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
