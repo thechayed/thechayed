@@ -1,5 +1,6 @@
 ### Well met, fellow internet and source code adventurer! Welcome to my favorite little internet nook. As the founder of Cairo Creative Studios, I'm leading my team to wonderful creative endeavors. 
 ![Cairo Creative Studios](https://avatars.githubusercontent.com/u/106122918?s=200&v=4)
+
 [Check out our organization page!](https://github.com/Cairo-Creative-Studios) 
 
 # Welcome to my Github Profile!
